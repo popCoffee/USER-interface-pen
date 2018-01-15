@@ -1,7 +1,7 @@
--- Project: Vector Displey Processor
--- Group 19
--- Author: RONG JI         (01090938)
---         Andrew Kubal    (00888321)
+-- Project: Vector Display Processor
+
+
+--    By     Andrew Kubal    
 
 -- top-level Vector Display Processor
 -- this file is fully synthesisable
