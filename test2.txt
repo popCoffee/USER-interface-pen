@@ -1,0 +1,12 @@
+-- screen is initially cleared to white ('0') state
+MW 0 0
+CW 63 63
+-- draw cross black
+MW 0  0
+DB 63 63
+MW 63 0
+DB 0 63
+
+MW 0 0
+CI 63 63
+
