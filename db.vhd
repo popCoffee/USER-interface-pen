@@ -1,7 +1,7 @@
 -- Project : Vector Display Processor
 -- Ram Control Block (RCB)
 -- Author : Andrew Kubal
--- Student ID: 00888321
+
 
 LIBRARY ieee;
 library work;
