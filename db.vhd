@@ -1,5 +1,5 @@
 -- Project : Vector Display Processor
--- Ram Control Block (RCB)
+-- Draw Block (DB)
 -- Author : Andrew Kubal
 
 
