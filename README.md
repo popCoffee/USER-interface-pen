@@ -1,1 +1,1 @@
-# VHDL-gui-drawing
+# VHDL code for gui
